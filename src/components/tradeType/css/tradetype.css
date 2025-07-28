@@ -1,0 +1,8 @@
+.mainTradeType .tableHeader tr th {
+    background-color:#10446c;
+    color: white;
+}
+
+.mainTradeType .tableBody tr td {
+    color: #10446c;
+}

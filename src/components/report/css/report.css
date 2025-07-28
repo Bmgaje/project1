@@ -1,0 +1,8 @@
+.mainReport .tableHeader tr th {
+    background-color:#10446c;
+    color: white;
+}
+
+.mainReport .tableBody tr td {
+    color: #10446c;
+}

@@ -1,0 +1,9 @@
+.mainInterest .tableHeader tr th {
+    background-color:#10446c;
+    color: white;
+  
+}
+
+.mainInterest .tableBody tr td {
+    color: #10446c;
+}

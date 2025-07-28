@@ -1,0 +1,29 @@
+.main .tableHeader tr th {
+  background-color:#10446c;
+  color: white;
+}
+
+.main .tableBody tr td {
+  color: #10446c;
+}
+
+.paymentMain .paraText {
+  color: #10446c;
+  font-weight: bold;
+}
+
+.paymentMain .para {
+  color: #198754;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.paymentMain .cardDesign {
+  color: #10446c;
+  margin-right: 2px;
+  font-size: 35px;
+  padding: 5px;
+  background-color: #f1faee;
+  border-radius: 50%;
+  border: 2px dashed #10446c;
+}

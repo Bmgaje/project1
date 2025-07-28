@@ -1,0 +1,9 @@
+.mainLangauage .tableHeader tr th {
+    background-color:#10446c;
+    color: white;
+  
+}
+
+.mainLangauage .tableBody tr td {
+    color: #10446c;
+}

@@ -1,0 +1,9 @@
+/* sub-admin */
+.mainSubadmin .tableHeader tr th {
+    background-color:#10446c;
+    color: white;
+}
+
+.mainSubadmin .tableBody tr td {
+    color: #10446c;
+}

@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/768.8e21080c.chunk.css","mappings":"AAAA,8BACI,wBAAwB,CACxB,UACJ,CAEA,4BACI,aACJ","sources":["components/userBadgeRequest/css/userbadge.css"],"sourcesContent":[".mainBadge .tableHeader tr th {\n    background-color:#10446c;\n    color: white;\n}\n\n.mainBadge .tableBody tr td {\n    color: #10446c;\n}"],"names":[],"sourceRoot":""}

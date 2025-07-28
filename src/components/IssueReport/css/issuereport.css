@@ -1,0 +1,8 @@
+.mainIssue .tableHeader tr th {
+    background-color:#10446c;
+    color: white;
+}
+
+.mainIssue .tableBody tr td {
+    color: #10446c;
+}

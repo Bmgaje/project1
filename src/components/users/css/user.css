@@ -1,0 +1,14 @@
+.mainUser .tableHeader tr th {
+    background-color:#10446c;
+    color: white;
+}
+
+.mainUser .tableBody tr td {
+    color: #10446c;
+}
+
+/*
+1 Light blue = #69dbe6 
+2 Navy blue  = #10446c
+3 Blue       = #327cb3
+*/

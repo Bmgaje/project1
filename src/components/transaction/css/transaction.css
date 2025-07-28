@@ -1,0 +1,18 @@
+.mainTransaction .tableHeader tr th {
+    background-color:#10446c;
+    color: white;
+}
+
+.mainTransaction .tableBody tr td {
+    color: #10446c;
+}
+
+
+.mainBankDetails .tableHeader tr th {
+    background-color:#10446c;
+    color: white;
+}
+
+.mainBankDetails .tableBody tr td {
+    color: #10446c;
+}

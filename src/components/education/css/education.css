@@ -1,0 +1,8 @@
+.mainEducation .tableHeader tr th {
+    background-color:#10446c;
+    color: white;
+}
+
+.mainEducation .tableBody tr td {
+    color: #10446c;
+}

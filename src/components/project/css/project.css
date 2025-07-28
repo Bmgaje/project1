@@ -1,0 +1,17 @@
+.mainProject .tableHeader tr th {
+    background-color:#10446c;
+    color: white;
+}
+
+.mainProject .tableBody tr td {
+    color: #10446c;
+}
+
+.mainBid .tableHeaderBid tr th {
+    background-color:#10446c;
+    color: white;
+}
+
+.mainBid .tableBodyBid tr td {
+    color: #10446c;
+}

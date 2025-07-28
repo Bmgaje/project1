@@ -1,0 +1,8 @@
+.mainSkillCate .tableHeader tr th {
+    background-color:#10446c;
+    color: white;
+}
+
+.mainSkillCate .tableBody tr td {
+    color: #10446c;
+}

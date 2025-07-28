@@ -1,0 +1,8 @@
+.mainBadge .tableHeader tr th {
+    background-color:#10446c;
+    color: white;
+}
+
+.mainBadge .tableBody tr td {
+    color: #10446c;
+}
